@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You're reading my GitHub profile repository **ledondodo/ledondodo**!
+You're reading my GitHub profile repository ✨*ledondodo/ledondodo*✨ !
 
 - 📚 I'm a student at [EPFL](https://www.epfl.ch/about/fr/)
 - 🎒 I'm in Sweden for 1 year exchange at [KTH](https://www.kth.se/)
