@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-✨ *You're reading my GitHub profile repository* ✨
+✨ _You're reading my GitHub profile repository_ ✨
 
+My name is Arthur,
 - 📚 I'm a student at [EPFL](https://www.epfl.ch/about/fr/)
 - 🎒 I'm in Sweden for 1 year exchange at [KTH](https://www.kth.se/)
 - 🌱 I’m currently learning Microengeneering
