@@ -3,7 +3,7 @@
 **ledondodo/ledondodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 📚 I'm currently studying in [EPFL](https://www.epfl.ch/about/fr/)
-- 📫 How to reach me: by [mail](mailto:arthur.chansel@gmail.com?subject=[GitHub])
+- 📫 How to reach me: [send me an email](mailto:arthur.chansel@gmail.com?subject=[GitHub])
 
 <!--
 Here are some ideas to get you started:
