@@ -4,8 +4,7 @@
 
 My name is Arthur ...
 - 🌍 I'm Swiss 🇨🇭 / French 🇫🇷
-- 📚 I'm a student at [EPFL](https://www.epfl.ch/about/fr/)
-- 🎒 I'm in Sweden for 1 year exchange at [KTH university](https://www.kth.se/)
+- 📚 I'm a student at [EPFL](https://www.epfl.ch/about/fr/), but currently in Sweden for 1 year exchange at [KTH university](https://www.kth.se/)
 - 🌱 I’m currently learning Microengeneering
 - 📫 How to reach me: [send me an email](mailto:arthur.chansel@gmail.com?subject=[GitHub])
 
