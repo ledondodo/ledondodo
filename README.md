@@ -3,10 +3,10 @@
 ✨ _You're reading my GitHub profile repository_ ✨
 
 My name is Arthur ...
+- 🌍 I'm Swiss 🇨🇭 / French 🇫🇷
 - 📚 I'm a student at [EPFL](https://www.epfl.ch/about/fr/)
 - 🎒 I'm in Sweden for 1 year exchange at [KTH](https://www.kth.se/)
 - 🌱 I’m currently learning Microengeneering
-- 🌍 I'm Swiss 🇨🇭 / French 🇫🇷
 - 📫 How to reach me: [send me an email](mailto:arthur.chansel@gmail.com?subject=[GitHub])
 
 <!--
