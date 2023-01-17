@@ -7,6 +7,14 @@ My name is Arthur ...
 - 📚 I'm a Microengeneering student at [EPFL](https://www.epfl.ch/about/fr/), currently in Sweden for 1 year exchange at [KTH university](https://www.kth.se/)
 - 📫 How to reach me: [send me an email](mailto:arthur.chansel@gmail.com?subject=[GitHub])
 
+### My Projects
+
+EPFL Bachelor:
+- Object Oriented Programming: [Planet Donut](https://github.com/ledondodo/PlanetDonut)
+- Logic Systems: [Time Time](https://github.com/ledondodo/TimeTime)
+- Mechanism Design II: [Balanced IsoSpring](https://github.com/ledondodo/Balanced-IsoSpring)
+- Digital Signal Processing (exchange in Sweden, KTH): [Filter Design](https://github.com/ledondodo/FilterDesign)
+
 <!--
 **ledondodo/ledondodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
