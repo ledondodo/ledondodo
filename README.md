@@ -1,11 +1,10 @@
-### Hello! 👋
+### Arthur Chansel's GitHub profile 👋
 
-✨ _You're reading my GitHub profile repository_ ✨
-
-My name is Arthur ...
 - 🌍 I'm Swiss 🇨🇭 / French 🇫🇷
 - 📚 I'm a Microengeneering student at [EPFL](https://www.epfl.ch/about/fr/), currently in Sweden for 1 year exchange at [KTH university](https://www.kth.se/)
 - 📫 How to reach me: [send me an email](mailto:arthur.chansel@gmail.com?subject=[GitHub])
+
+✨ _You're reading my GitHub profile repository_ ✨
 
 ### My Projects
 
