@@ -7,7 +7,7 @@
 
 ## Past Projects
 
-EPFL Bachelor:
+### EPFL Bachelor:
 - Object Oriented Programming: [Planet Donut](https://github.com/ledondodo/PlanetDonut)
 - Logic Systems: [Time Time](https://github.com/ledondodo/TimeTime)
 - Mechanism Design II: [Balanced IsoSpring](https://github.com/ledondodo/Balanced-IsoSpring)
