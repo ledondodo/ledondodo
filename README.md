@@ -1,4 +1,4 @@
-#### Arthur Chansel's GitHub profile ✨
+# Arthur Chansel's GitHub profile ✨
 
 - 🌍 Swiss 🇨🇭 / French 🇫🇷, based in Geneva
 - 📚 Microengeneering student at [EPFL](https://www.epfl.ch/about/fr/), currently in Sweden for 1 year exchange at [KTH university](https://www.kth.se/)
