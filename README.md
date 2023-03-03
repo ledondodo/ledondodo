@@ -3,6 +3,7 @@
 - 🌍 I'm Swiss 🇨🇭 / French 🇫🇷
 - 📚 Microengeneering student at [EPFL](https://www.epfl.ch/about/fr/), currently in Sweden for 1 year exchange at [KTH university](https://www.kth.se/)
 - 📫 Reach me: [arthur.chansel@gmail.com](mailto:arthur.chansel@gmail.com?subject=[GitHub])
+- Linkedin: [arthurchansel](https://www.linkedin.com/in/arthur-chansel-5b8176192/)
 
 ✨ _You're reading my GitHub profile repository_ ✨
 
