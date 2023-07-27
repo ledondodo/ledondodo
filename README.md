@@ -15,7 +15,7 @@
 - Digital Signal Processing (exchange in Sweden, KTH): [Filter Design](https://github.com/ledondodo/FilterDesign)
 
 ### Personnal programs
-- Use Twitter from Terminal command line: [tweet](https://github.com/ledondodo/tweet)
+- Tweet from Terminal: [tweet](https://github.com/ledondodo/tweet)
 
 <!--
 - 🔭 I’m currently working on ...
