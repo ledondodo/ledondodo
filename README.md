@@ -16,7 +16,7 @@
 
 ### Personnal programs
 - Tweet from Terminal: [tweet](https://github.com/ledondodo/tweet)
-- Download audio files from YouTube in Terminal: [ytb](https://github.com/ledondodo/ytb)
+- Download YouTube audio files from Terminal: [ytb](https://github.com/ledondodo/ytb)
 
 <!--
 - 🔭 I’m currently working on ...
