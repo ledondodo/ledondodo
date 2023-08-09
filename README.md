@@ -1,4 +1,4 @@
-# Arthur Chansel's GitHub profile ✨
+# Arthur Chansel ✨
 
 - 🌍 Swiss 🇨🇭 / French 🇫🇷 - Based in Geneva
 - 📚 Data Science student at [EPFL](https://www.epfl.ch/about/fr/)
