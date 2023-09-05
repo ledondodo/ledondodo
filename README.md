@@ -21,6 +21,10 @@
 ### Working on
 - Dictionary in Terminal: [dictionary](https://github.com/ledondodo/dictionary)
 
+### Future developments
+- QR Code Generator
+- Merge PDF
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
