@@ -18,6 +18,9 @@
 - Tweet from Terminal: [tweet](https://github.com/ledondodo/tweet)
 - Download YouTube audio files from Terminal: [ytb](https://github.com/ledondodo/ytb)
 
+### Working on
+- Dictionary in Terminal: [dictionary](https://github.com/ledondodo/dictionary)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
