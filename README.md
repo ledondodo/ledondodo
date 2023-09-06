@@ -20,9 +20,9 @@
 
 ### Working on
 - Dictionary in Terminal: [dictionary](https://github.com/ledondodo/dictionary)
+- QR Code Generator: [qrcode](https://github.com/ledondodo/qrcode)
 
 ### Future developments
-- QR Code Generator
 - Merge PDF
 
 <!--
