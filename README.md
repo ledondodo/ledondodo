@@ -17,10 +17,10 @@
 ### Personnal programs
 - Tweet from Terminal: [tweet](https://github.com/ledondodo/tweet)
 - Download YouTube audio files from Terminal: [ytb](https://github.com/ledondodo/ytb)
+- QR Code Generator: [myqr](https://github.com/ledondodo/myqr)
 
 ### Working on
 - Dictionary in Terminal: [dictionary](https://github.com/ledondodo/dictionary)
-- QR Code Generator: [myqr](https://github.com/ledondodo/myqr)
 
 ### Future developments
 - Merge PDF
