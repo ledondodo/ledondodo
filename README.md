@@ -20,7 +20,7 @@
 
 ### Working on
 - Dictionary in Terminal: [dictionary](https://github.com/ledondodo/dictionary)
-- QR Code Generator: [qrcode](https://github.com/ledondodo/qrcode)
+- QR Code Generator: [myqr](https://github.com/ledondodo/myqr)
 
 ### Future developments
 - Merge PDF
