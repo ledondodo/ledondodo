@@ -5,7 +5,7 @@
 - 📫 Reach me: [arthur.chansel@gmail.com](mailto:arthur.chansel@gmail.com?subject=[GitHub])
 - 💼 Linkedin: [arthurchansel](https://www.linkedin.com/in/arthurchansel/)
 
-## Past Projects
+## Projects
 
 ### EPFL Bachelor: Microengineering (graduated, we did it mini-me!)
 - Object Oriented Programming: [Planet Donut](https://github.com/ledondodo/PlanetDonut)
