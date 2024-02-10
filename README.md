@@ -7,12 +7,15 @@
 
 ## Projects
 
+### EPFL Master: Data Science
+- Applied Data Analysis: [Pivotal Movies](https://github.com/ledondodo/TheWestBobersWebsite)
+
 ### EPFL Bachelor: Microengineering (graduated, we did it mini-me!)
-- Object Oriented Programming: [Planet Donut](https://github.com/ledondodo/PlanetDonut)
-- Logic Systems: [Time Time](https://github.com/ledondodo/TimeTime)
-- Mechanism Design II: [Balanced IsoSpring](https://github.com/ledondodo/Balanced-IsoSpring)
-- Machine Learning (exchange in Sweden, KTH): [Support Vector Machines](https://github.com/ledondodo/SVM)
 - Digital Signal Processing (exchange in Sweden, KTH): [Filter Design](https://github.com/ledondodo/FilterDesign)
+- Machine Learning (exchange in Sweden, KTH): [Support Vector Machines](https://github.com/ledondodo/SVM)
+- Mechanism Design II: [Balanced IsoSpring](https://github.com/ledondodo/Balanced-IsoSpring)
+- Logic Systems: [Time Time](https://github.com/ledondodo/TimeTime)
+- Object Oriented Programming: [Planet Donut](https://github.com/ledondodo/PlanetDonut)
 
 ### Personnal programs
 - Tweet from Terminal: [tweet](https://github.com/ledondodo/tweet)
