@@ -9,7 +9,7 @@
 
 ### EPFL Master: Data Science
 - Applied Data Analysis: [Pivotal Movies](https://github.com/ledondodo/TheWestBobersWebsite)
-- Machine Learning: [Heart Attacks](https://github.com/ledondodo/HeartAttacks)
+- Machine Learning: [Heart Attacks prediction](https://github.com/ledondodo/HeartAttacks)
 
 ### EPFL Bachelor: Microengineering (graduated, we did it mini-me!)
 - Digital Signal Processing (exchange in Sweden, KTH): [Filter Design](https://github.com/ledondodo/FilterDesign)
