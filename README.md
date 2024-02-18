@@ -8,7 +8,7 @@
 ## Projects
 
 ### EPFL Master: Data Science
-- Applied Data Analysis: [Pivotal Movies](https://github.com/ledondodo/TheWestBobersWebsite)
+- Applied Data Analysis: [Pivotal Movies](https://github.com/ledondodo/PivotalMovies), [Website](https://github.com/ledondodo/TheWestBobersWebsite)
 - Machine Learning: [Heart Attacks prediction](https://github.com/ledondodo/HeartAttacks), [Medical Diagnosis](https://github.com/ledondodo/MedicalDiagnosis)
 
 ### EPFL Bachelor: Microengineering (graduated, we did it mini-me!)
