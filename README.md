@@ -27,7 +27,7 @@
 - Dictionary in Terminal: [dictionary](https://github.com/ledondodo/dictionary)
 - Merge PDF
 - Convert ogg to mp3 audio files
-- Meteo
+- Weather
 
 <!--
 - 🔭 I’m currently working on ...
