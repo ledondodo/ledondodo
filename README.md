@@ -28,6 +28,7 @@
 - Merge PDF
 - Convert ogg to mp3 audio files
 - Weather
+- News
 
 <!--
 - 🔭 I’m currently working on ...
