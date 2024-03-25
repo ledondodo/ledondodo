@@ -29,6 +29,7 @@
 - Convert ogg to mp3 audio files
 - Weather
 - News
+- Caesar Cipher
 
 <!--
 - 🔭 I’m currently working on ...
