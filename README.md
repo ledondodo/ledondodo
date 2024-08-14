@@ -18,18 +18,16 @@
 - Logic Systems: [Time Time](https://github.com/ledondodo/TimeTime)
 - Object Oriented Programming: [Planet Donut](https://github.com/ledondodo/PlanetDonut)
 
-### Personnal programs
+### Personnal fun programs
 - Tweet from Terminal: [tweet](https://github.com/ledondodo/tweet)
 - Download YouTube audio files from Terminal: [ytb](https://github.com/ledondodo/ytb)
 - QR Code Generator: [myqr](https://github.com/ledondodo/myqr)
 
-### Future developments
+### Future developments and ideas
 - Dictionary in Terminal: [dictionary](https://github.com/ledondodo/dictionary)
-- Merge PDF
+- Merge PDF in Terminal
 - Convert ogg to mp3 audio files
-- Weather
-- News
-- Caesar Cipher
+- Weather, News, Caesar Cipher
 
 <!--
 - 🔭 I’m currently working on ...
