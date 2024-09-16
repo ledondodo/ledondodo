@@ -19,7 +19,7 @@
 - Logic Systems: [Time Time](https://github.com/ledondodo/TimeTime)
 - Object Oriented Programming: [Planet Donut](https://github.com/ledondodo/PlanetDonut)
 
-### Personnal fun programs
+### Personnal programs for fun
 - Tweet from Terminal: [tweet](https://github.com/ledondodo/tweet)
 - Download YouTube audio files from Terminal: [ytb](https://github.com/ledondodo/ytb)
 - QR Code Generator: [myqr](https://github.com/ledondodo/myqr)
