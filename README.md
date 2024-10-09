@@ -28,7 +28,8 @@
 - Dictionary in Terminal: [dictionary](https://github.com/ledondodo/dictionary)
 - Merge PDF in Terminal
 - Convert ogg to mp3 audio files
-- Weather, News, Caesar Cipher
+- Dashboard with Weather, News, ...
+- Ciphers
 
 <!--
 - 🔭 I’m currently working on ...
