@@ -8,6 +8,7 @@
 ## Projects
 
 ### EPFL Master: Data Science
+- dlab: 'LLMs for language learning' - Difficulty Constrained Decoding
 - Modern Natural Language Processing: LM for education assistance, Assignments
 - Applied Data Analysis: [Pivotal Movies](https://github.com/ledondodo/PivotalMovies), [Website](https://github.com/ledondodo/TheWestBobersWebsite)
 - Machine Learning: [Heart Attacks prediction](https://github.com/ledondodo/HeartAttacks), [Medical Diagnosis](https://github.com/ledondodo/MedicalDiagnosis)
