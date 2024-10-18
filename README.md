@@ -8,9 +8,10 @@
 ## Projects
 
 ### EPFL Master: Data Science
-- Modern Natural Language Processing: LM for education assistance
+- Modern Natural Language Processing: LM for education assistance, Assignments
 - Applied Data Analysis: [Pivotal Movies](https://github.com/ledondodo/PivotalMovies), [Website](https://github.com/ledondodo/TheWestBobersWebsite)
 - Machine Learning: [Heart Attacks prediction](https://github.com/ledondodo/HeartAttacks), [Medical Diagnosis](https://github.com/ledondodo/MedicalDiagnosis)
+- Data-Intensive Systems: Labs
 
 ### EPFL Bachelor: Microengineering (graduated, we did it mini-me!)
 - Digital Signal Processing (exchange in Sweden, KTH): [Filter Design](https://github.com/ledondodo/FilterDesign)
