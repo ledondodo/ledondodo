@@ -14,7 +14,7 @@
 - Machine Learning: [Heart Attacks prediction](https://github.com/ledondodo/HeartAttacks), [Medical Diagnosis](https://github.com/ledondodo/MedicalDiagnosis)
 - Data-Intensive Systems: Labs
 
-### EPFL Bachelor: Microengineering (graduated, we did it mini-me!)
+### EPFL Bachelor: Microengineering
 - Digital Signal Processing (exchange in KTH, Sweden): [Filter Design](https://github.com/ledondodo/FilterDesign)
 - Machine Learning (exchange in KTH, Sweden): [Support Vector Machines](https://github.com/ledondodo/SVM)
 - Mechanism Design II: [Balanced IsoSpring](https://github.com/ledondodo/Balanced-IsoSpring)
