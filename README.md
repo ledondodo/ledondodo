@@ -9,7 +9,7 @@
 
 ### EPFL Master: Data Science
 - dlab: [LLMs for language learning Difficulty Constrained Decoding](https://github.com/ledondodo/difficulty_constrained_decoding)
-- Modern Natural Language Processing: LM for education assistance, Assignments
+- Modern Natural Language Processing: [LM for education assistance](https://github.com/ledondodo/morenectarlesspoison)
 - Applied Data Analysis: [Pivotal Movies](https://github.com/ledondodo/PivotalMovies), [Website](https://github.com/ledondodo/TheWestBobersWebsite)
 - Machine Learning: [Heart Attacks prediction](https://github.com/ledondodo/HeartAttacks), [Medical Diagnosis](https://github.com/ledondodo/MedicalDiagnosis)
 - Data-Intensive Systems: Labs
