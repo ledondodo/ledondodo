@@ -5,22 +5,21 @@
 - 📫 Reach me: [arthur.chansel@gmail.com](mailto:arthur.chansel@gmail.com?subject=[GitHub])
 - 💼 Linkedin: [arthurchansel](https://www.linkedin.com/in/arthurchansel/)
 
-## Projects
-
-### EPFL Master: Data Science
+## EPFL Master: Data Science
 - dlab: [LLMs for language learning Difficulty Constrained Decoding](https://github.com/ledondodo/difficulty_constrained_decoding)
 - Modern Natural Language Processing: [LM for education assistance](https://github.com/ledondodo/morenectarlesspoison)
 - Applied Data Analysis: [Pivotal Movies](https://github.com/ledondodo/PivotalMovies), [Website](https://github.com/ledondodo/TheWestBobersWebsite)
 - Machine Learning: [Heart Attacks prediction](https://github.com/ledondodo/HeartAttacks), [Medical Diagnosis](https://github.com/ledondodo/MedicalDiagnosis)
 - Data-Intensive Systems: Labs
 
-### EPFL Bachelor: Microengineering
+## EPFL Bachelor: Microengineering
 - Digital Signal Processing (exchange in KTH, Sweden): [Filter Design](https://github.com/ledondodo/FilterDesign)
 - Machine Learning (exchange in KTH, Sweden): [Support Vector Machines](https://github.com/ledondodo/SVM)
 - Mechanism Design II: [Balanced IsoSpring](https://github.com/ledondodo/Balanced-IsoSpring)
 - Logic Systems: [Time Time](https://github.com/ledondodo/TimeTime)
 - Object Oriented Programming: [Planet Donut](https://github.com/ledondodo/PlanetDonut)
 
+<!--
 ### Personnal programs for fun
 - Tweet from Terminal: [tweet](https://github.com/ledondodo/tweet)
 - Download YouTube audio files from Terminal: [ytb](https://github.com/ledondodo/ytb)
