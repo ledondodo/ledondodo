@@ -12,7 +12,7 @@
 - Applied Data Analysis: [Pivotal Movies](https://github.com/ledondodo/PivotalMovies), [Website](https://github.com/ledondodo/TheWestBobersWebsite)
 - Brain-Like Computation and Intelligence: [brainlike]()
 - Machine Learning: [Heart Attacks prediction](https://github.com/ledondodo/HeartAttacks), [Medical Diagnosis](https://github.com/ledondodo/MedicalDiagnosis)
-- Data-Intensive Systems: Labs
+- Data-Intensive Systems: [Labs](https://github.com/ledondodo/dis-labs)
 
 ## EPFL Bachelor: Microengineering
 - Digital Signal Processing (exchange in KTH, Sweden): [Filter Design](https://github.com/ledondodo/FilterDesign)
