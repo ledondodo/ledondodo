@@ -8,6 +8,7 @@
 - 💼 Linkedin: [arthurchansel](https://www.linkedin.com/in/arthurchansel/)
 
 ## EPFL Master: Data Science
+- Mathis Lab: soon
 - dlab: [LLMs for language learning Difficulty Constrained Decoding](https://github.com/ledondodo/difficulty_constrained_decoding)
 - Visual Intelligence: [multiflair](), [notebooks]()
 - Modern Natural Language Processing: [LM for education assistance](https://github.com/ledondodo/morenectarlesspoison)
