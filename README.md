@@ -1,6 +1,6 @@
 # Arthur Chansel ✨
 
-[website](ledondodo.github.io/)
+[website](https://ledondodo.github.io/)
 
 - 🌍 Swiss 🇨🇭 / French 🇫🇷 - Based in Geneva
 - 📚 Data Science student at [EPFL](https://www.epfl.ch/about/fr/)
