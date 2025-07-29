@@ -3,7 +3,7 @@
 [website](https://ledondodo.github.io/)
 
 - 🌍 Swiss 🇨🇭 / French 🇫🇷 - Based in Geneva
-- 📚 Data Science student at [EPFL](https://www.epfl.ch/about/fr/)
+- 📚 Data Science Master's student at [EPFL](https://www.epfl.ch/about/fr/)
 - 📫 Reach me: [arthur.chansel@gmail.com](mailto:arthur.chansel@gmail.com?subject=[GitHub])
 - 💼 Linkedin: [arthurchansel](https://www.linkedin.com/in/arthurchansel/)
 
